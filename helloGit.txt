@@ -1,0 +1,13 @@
+hello git --version
+hello git config --global user.name
+hello git config --global user.emal
+hello git inig
+hello git init
+hellt gie init
+hello git init
+hello git init
+hello git init
+hello git init
+hello git init
+hello git init
+hello git init
