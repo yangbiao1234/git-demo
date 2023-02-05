@@ -1,13 +1,13 @@
 hello git --version
 hello git config --global user.name
 hello git config --global user.emal
-hello git inig
+hello git status
 hello git init
-hellt gie init
-hello git init
-hello git init
-hello git init
-hello git init
-hello git init
+hellt vim wenjianming
+hello git reflog
+hello git log
+hello git add helloGit.txt
+hello git commit -m "firest commit" hellGit.txt
+hello vim helloGit.txt
 hello git init
 hello git init
