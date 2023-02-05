@@ -10,5 +10,5 @@ hello git add helloGit.txt
 hello git commit -m "firest commit" hellGit.txt
 hello vim helloGit.txt
 hello git init
-hello git init
+VIM HELL
 hello vim helloGit.txt
